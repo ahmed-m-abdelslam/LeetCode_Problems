@@ -7,8 +7,11 @@ solution = TwoSum()
 ########################## Palindrome Number ##########################
 from Problems import PalindromeNumber
 solution = PalindromeNumber()
-print(solution.isPalindrome(-121))
+#print(solution.isPalindrome(-121))
 
-
+########################## Roman To Integer ##########################
+from Problems import RomanToInteger
+solution = RomanToInteger()
+print(solution.romanToInt("MCMXCIV"))
 
 
