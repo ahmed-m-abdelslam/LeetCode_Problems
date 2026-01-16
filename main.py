@@ -12,6 +12,11 @@ solution = PalindromeNumber()
 ########################## Roman To Integer ##########################
 from Problems import RomanToInteger
 solution = RomanToInteger()
-print(solution.romanToInt("MCMXCIV"))
+#print(solution.romanToInt("MCMXCIV"))
+
+########################## Longest Common Prefix ##########################
+from Problems import LongestCommonPrefix
+solution = LongestCommonPrefix()
+print(solution.longestCommonPrefix(["flower","flow","flight"]))
 
 
