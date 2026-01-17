@@ -4,4 +4,5 @@
 - [Two Sum](Problems/TwoSum.py)
 - [Palind rome Number](Problems/PalindromeNumber.py)
 - [Roman To Integer](Problems/RomanToInteger.py)
-- [LongestCommonPrefix](Problems/LongestCommonPrefix.py)
+- [Longest Common Prefix](Problems/LongestCommonPrefix.py)
+- [Valid Parentheses](Problems/ValidParentheses.py)

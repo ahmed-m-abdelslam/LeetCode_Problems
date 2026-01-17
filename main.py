@@ -17,6 +17,10 @@ solution = RomanToInteger()
 ########################## Longest Common Prefix ##########################
 from Problems import LongestCommonPrefix
 solution = LongestCommonPrefix()
-print(solution.longestCommonPrefix(["flower","flow","flight"]))
+#print(solution.longestCommonPrefix(["flower","flow","flight"]))
 
+########################## Valid Parentheses ##########################
+from Problems import ValidParentheses
+solution = ValidParentheses()
+print(solution.isValid("([)])"))
 
