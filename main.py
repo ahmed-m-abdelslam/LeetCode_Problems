@@ -22,5 +22,9 @@ solution = LongestCommonPrefix()
 ########################## Valid Parentheses ##########################
 from Problems import ValidParentheses
 solution = ValidParentheses()
-print(solution.isValid("([)])"))
+#print(solution.isValid("([)])"))
 
+########################## Merge Two Sorted Lists ##########################
+from Problems import MergeTwoSortedLists
+solution = MergeTwoSortedLists()
+print(solution.mergeTwoLists([1,2,4], [1,3,4]))
