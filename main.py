@@ -27,4 +27,9 @@ solution = ValidParentheses()
 ########################## Merge Two Sorted Lists ##########################
 from Problems import MergeTwoSortedLists
 solution = MergeTwoSortedLists()
-print(solution.mergeTwoLists([1,2,4], [1,3,4]))
+#print(solution.mergeTwoLists([1,2,4], [1,3,4]))
+
+########################## Longest Substring Without Repeating Characters ##########################
+from Problems import LongestSubstringWithoutRepeatingCharacters
+solution = LongestSubstringWithoutRepeatingCharacters()
+print(solution.lengthOfLongestSubstring("abcabcbb"))
